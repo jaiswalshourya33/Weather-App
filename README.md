@@ -21,6 +21,10 @@ A simple and responsive weather application that provides real-time weather info
 - CSS
 - Weather API
 
+📸 Screenshot
+<img width="1890" height="858" alt="weather" src="https://github.com/user-attachments/assets/090310b6-4004-4ac8-b938-a5856c9fc494" />
+
+
 ## 📦 Installation
 
 ```bash
@@ -28,11 +32,7 @@ git clone https://github.com/jaiswalshourya/weather-app.git
 cd weather-app
 npm install
 npm run dev
-
-📸 Screenshot
-
-<img width="1890" height="858" alt="Screenshot 2026-06-09 224306" src="https://github.com/user-attachments/assets/7425d1a9-ce89-42c7-9cce-09aaf1762f05" />
-
+```
 
 👨‍💻 Author
 
